@@ -1617,4 +1617,10 @@ footer {
   #our-product {
     margin: 50px auto;
   }
+
+  .about-us-main-box {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
 }
