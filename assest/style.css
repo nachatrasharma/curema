@@ -153,8 +153,8 @@ nav {
 
 .carousel-caption {
   position: absolute;
-  top: 29%;
-  left: 12%;
+  top: 5%;
+  left: -15%;
   color: #000;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -169,7 +169,7 @@ nav {
 }
 
 .carousel-caption h1 {
-  font-size: 4rem;
+  font-size: 2.5rem;
   letter-spacing: 3px;
   color: #fff;
 }
@@ -528,6 +528,12 @@ nav {
   display: flex;
   flex-direction: row !important;
   align-items: center;
+}
+
+.value-task h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #394b7b;
 }
 
 .why-us-box ul div i {
@@ -1139,6 +1145,7 @@ footer {
 
 .about-us-main-box {
   width: 47%;
+  justify-content: center;
 }
 
 @media screen and (max-width: 900px) {
