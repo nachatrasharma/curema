@@ -193,6 +193,10 @@ nav {
   border: 1px solid black;
 }
 
+.carousel-item {
+  height: 650px !important;
+}
+
 /* navbar done */
 
 .about-us-main-box h2 {
