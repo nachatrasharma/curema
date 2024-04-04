@@ -1646,4 +1646,8 @@ footer {
   .value-task h3 {
     font-size: 1.1rem;
   }
+
+  .carousel-item {
+    height: 200px !important;
+  }
 }
